@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-theme-read-only",
+  "description": "Gatsby port of HTML5UP Read Only",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Steven Natera <tektekpush@gmail.com>",
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/gatsbymanor/gatsby-theme-read-only"
   }
 }

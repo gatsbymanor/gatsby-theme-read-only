@@ -1,5 +1,4 @@
 import React from 'react'
-// import { Link } from 'gatsby'
 
 import avatar from "../images/avatar.jpg"
 import banner from "../images/banner.jpg"
